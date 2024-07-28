@@ -1,10 +1,3 @@
-subprocess
-time
-csv
-os
-signal
-threading
-logging
 Flask
 flask-cors
 PeakPxApi
@@ -13,7 +6,4 @@ joblib
 numpy
 scikit-learn
 cachetools
-collections
 better_profanity
-psutil
-traceback
