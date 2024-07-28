@@ -1,7 +1,7 @@
 Flask
 gunicorn
 flask_cors
-peakpx
+PeakPxApi
 joblib
 numpy
 scikit-learn
